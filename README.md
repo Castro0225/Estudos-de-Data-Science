@@ -15,7 +15,7 @@ Atualmente o projeto está dividido em módulos:
 2. **Módulo 02:** (Em breve) Visualização de dados com Matplotlib/Seaborn.
 
 ## 💡 Como visualizar o progresso
-Basta abrir o arquivo `teste.py` para ver os comandos de exploração de dados.
+Basta abrir o arquivo `main.py` para ver os comandos de exploração de dados.
 
 ---
 ⌨️ por Victor(https://github.com/Castro0225)
