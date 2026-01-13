@@ -1,6 +1,13 @@
 import pandas as pd
 import time
 
-dados = pd.read_csv ("https://raw.githubusercontent.com/alura-cursos/data-science-analise-exploratoria/main/Aula_0/ml-latest-small/ratings.csv")
+avaliacoes = pd.read_csv ("https://raw.githubusercontent.com/alura-cursos/data-science-analise-exploratoria/main/Aula_0/ml-latest-small/ratings.csv")
 
-print(dados.head(50))
+print(avaliacoes.head(31))
+print()
+print(f"Os nomes das colunas são: {avaliacoes.columns}")
+
+avaliacoes.colums= ["usuarioId","filmeId","nota","momento"]
+
+time.sleep(10)
+
