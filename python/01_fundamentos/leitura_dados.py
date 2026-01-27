@@ -9,9 +9,6 @@ print(f"Os nomes das colunas são: {avaliacoes.columns}")
 
 avaliacoes.colums= ["usuarioId","filmeId","nota","momento"]
 
-time.sleep(10) # comenta dps da linha
+time.sleep(10) 
 
 # Comentarios em Python - comenta a linha
-
-
-
